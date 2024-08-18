@@ -1,0 +1,457 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Cdac\\AR_VehicleServiceManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0DC40BB-25BD-4A98-ABAA-B932F104DAE1}|AR_VehicleServiceManagement.csproj|e:\\cdac\\ar_vehicleservicemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D0DC40BB-25BD-4A98-ABAA-B932F104DAE1}|AR_VehicleServiceManagement.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0DC40BB-25BD-4A98-ABAA-B932F104DAE1}|AR_VehicleServiceManagement.csproj|e:\\cdac\\ar_vehicleservicemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0DC40BB-25BD-4A98-ABAA-B932F104DAE1}|AR_VehicleServiceManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0DC40BB-25BD-4A98-ABAA-B932F104DAE1}|AR_VehicleServiceManagement.csproj|e:\\cdac\\ar_vehicleservicemanagement\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0DC40BB-25BD-4A98-ABAA-B932F104DAE1}|AR_VehicleServiceManagement.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0DC40BB-25BD-4A98-ABAA-B932F104DAE1}|AR_VehicleServiceManagement.csproj|e:\\cdac\\ar_vehicleservicemanagement\\controllers\\invoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0DC40BB-25BD-4A98-ABAA-B932F104DAE1}|AR_VehicleServiceManagement.csproj|solutionrelative:controllers\\invoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0DC40BB-25BD-4A98-ABAA-B932F104DAE1}|AR_VehicleServiceManagement.csproj|e:\\cdac\\ar_vehicleservicemanagement\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0DC40BB-25BD-4A98-ABAA-B932F104DAE1}|AR_VehicleServiceManagement.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0DC40BB-25BD-4A98-ABAA-B932F104DAE1}|AR_VehicleServiceManagement.csproj|e:\\cdac\\ar_vehicleservicemanagement\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0DC40BB-25BD-4A98-ABAA-B932F104DAE1}|AR_VehicleServiceManagement.csproj|solutionrelative:controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0DC40BB-25BD-4A98-ABAA-B932F104DAE1}|AR_VehicleServiceManagement.csproj|e:\\cdac\\ar_vehicleservicemanagement\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0DC40BB-25BD-4A98-ABAA-B932F104DAE1}|AR_VehicleServiceManagement.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0DC40BB-25BD-4A98-ABAA-B932F104DAE1}|AR_VehicleServiceManagement.csproj|e:\\cdac\\ar_vehicleservicemanagement\\data\\vehicleservicecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0DC40BB-25BD-4A98-ABAA-B932F104DAE1}|AR_VehicleServiceManagement.csproj|solutionrelative:data\\vehicleservicecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0DC40BB-25BD-4A98-ABAA-B932F104DAE1}|AR_VehicleServiceManagement.csproj|e:\\cdac\\ar_vehicleservicemanagement\\models\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0DC40BB-25BD-4A98-ABAA-B932F104DAE1}|AR_VehicleServiceManagement.csproj|solutionrelative:models\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0DC40BB-25BD-4A98-ABAA-B932F104DAE1}|AR_VehicleServiceManagement.csproj|e:\\cdac\\ar_vehicleservicemanagement\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0DC40BB-25BD-4A98-ABAA-B932F104DAE1}|AR_VehicleServiceManagement.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0DC40BB-25BD-4A98-ABAA-B932F104DAE1}|AR_VehicleServiceManagement.csproj|e:\\cdac\\ar_vehicleservicemanagement\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0DC40BB-25BD-4A98-ABAA-B932F104DAE1}|AR_VehicleServiceManagement.csproj|solutionrelative:models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0DC40BB-25BD-4A98-ABAA-B932F104DAE1}|AR_VehicleServiceManagement.csproj|e:\\cdac\\ar_vehicleservicemanagement\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0DC40BB-25BD-4A98-ABAA-B932F104DAE1}|AR_VehicleServiceManagement.csproj|solutionrelative:models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0DC40BB-25BD-4A98-ABAA-B932F104DAE1}|AR_VehicleServiceManagement.csproj|e:\\cdac\\ar_vehicleservicemanagement\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0DC40BB-25BD-4A98-ABAA-B932F104DAE1}|AR_VehicleServiceManagement.csproj|solutionrelative:models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0DC40BB-25BD-4A98-ABAA-B932F104DAE1}|AR_VehicleServiceManagement.csproj|e:\\cdac\\ar_vehicleservicemanagement\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0DC40BB-25BD-4A98-ABAA-B932F104DAE1}|AR_VehicleServiceManagement.csproj|solutionrelative:models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Cdac\\AR_VehicleServiceManagement\\Migrations\\20240818000656_10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240818000656_10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Cdac\\AR_VehicleServiceManagement\\Migrations\\20240818000603__tenth_.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240818000603__tenth_.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Cdac\\AR_VehicleServiceManagement\\Migrations\\20240817235622_nineth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240817235622_nineth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Cdac\\AR_VehicleServiceManagement\\Migrations\\20240817232614_eight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240817232614_eight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Cdac\\AR_VehicleServiceManagement\\Migrations\\20240817231610_seventh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240817231610_seventh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Cdac\\AR_VehicleServiceManagement\\Migrations\\20240817231355_sixth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240817231355_sixth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Cdac\\AR_VehicleServiceManagement\\Migrations\\20240817231120_fifth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240817231120_fifth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Cdac\\AR_VehicleServiceManagement\\Migrations\\20240817230534_fourth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240817230534_fourth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Cdac\\AR_VehicleServiceManagement\\Migrations\\20240817225219_third.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240817225219_third.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Cdac\\AR_VehicleServiceManagement\\Migrations\\20240817223841_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240817223841_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Cdac\\AR_VehicleServiceManagement\\Migrations\\20240817223655_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240817223655_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1313394489:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "E:\\Cdac\\AR_VehicleServiceManagement\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "E:\\Cdac\\AR_VehicleServiceManagement\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAowGwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T18:02:25.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "E:\\Cdac\\AR_VehicleServiceManagement\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AppointmentController.cs",
+              "ToolTip": "E:\\Cdac\\AR_VehicleServiceManagement\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "Controllers\\AppointmentController.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAowHsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T18:03:07.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\Cdac\\AR_VehicleServiceManagement\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "E:\\Cdac\\AR_VehicleServiceManagement\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAYwHEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T18:02:44.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InvoiceController.cs",
+              "DocumentMoniker": "E:\\Cdac\\AR_VehicleServiceManagement\\Controllers\\InvoiceController.cs",
+              "RelativeDocumentMoniker": "Controllers\\InvoiceController.cs",
+              "ToolTip": "E:\\Cdac\\AR_VehicleServiceManagement\\Controllers\\InvoiceController.cs",
+              "RelativeToolTip": "Controllers\\InvoiceController.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAowIMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T22:01:09.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\Cdac\\AR_VehicleServiceManagement\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "E:\\Cdac\\AR_VehicleServiceManagement\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAowHsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T21:53:20.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Cdac\\AR_VehicleServiceManagement\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Cdac\\AR_VehicleServiceManagement\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAwwFAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T22:25:23.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Cdac\\AR_VehicleServiceManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\Cdac\\AR_VehicleServiceManagement\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-17T22:26:24.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VehicleServiceContext.cs",
+              "DocumentMoniker": "E:\\Cdac\\AR_VehicleServiceManagement\\Data\\VehicleServiceContext.cs",
+              "RelativeDocumentMoniker": "Data\\VehicleServiceContext.cs",
+              "ToolTip": "E:\\Cdac\\AR_VehicleServiceManagement\\Data\\VehicleServiceContext.cs",
+              "RelativeToolTip": "Data\\VehicleServiceContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T17:56:33.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserLogin.cs",
+              "DocumentMoniker": "E:\\Cdac\\AR_VehicleServiceManagement\\Models\\UserLogin.cs",
+              "RelativeDocumentMoniker": "Models\\UserLogin.cs",
+              "ToolTip": "E:\\Cdac\\AR_VehicleServiceManagement\\Models\\UserLogin.cs",
+              "RelativeToolTip": "Models\\UserLogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T17:57:42.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\Cdac\\AR_VehicleServiceManagement\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "E:\\Cdac\\AR_VehicleServiceManagement\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T17:57:21.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Register.cs",
+              "DocumentMoniker": "E:\\Cdac\\AR_VehicleServiceManagement\\Models\\Register.cs",
+              "RelativeDocumentMoniker": "Models\\Register.cs",
+              "ToolTip": "E:\\Cdac\\AR_VehicleServiceManagement\\Models\\Register.cs",
+              "RelativeToolTip": "Models\\Register.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAYwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T18:00:50.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "E:\\Cdac\\AR_VehicleServiceManagement\\Models\\Invoice.cs",
+              "RelativeDocumentMoniker": "Models\\Invoice.cs",
+              "ToolTip": "E:\\Cdac\\AR_VehicleServiceManagement\\Models\\Invoice.cs",
+              "RelativeToolTip": "Models\\Invoice.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAuwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T18:00:26.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "E:\\Cdac\\AR_VehicleServiceManagement\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "Models\\Appointment.cs",
+              "ToolTip": "E:\\Cdac\\AR_VehicleServiceManagement\\Models\\Appointment.cs",
+              "RelativeToolTip": "Models\\Appointment.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T17:58:25.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "E:\\Cdac\\AR_VehicleServiceManagement\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "Models\\Admin.cs",
+              "ToolTip": "E:\\Cdac\\AR_VehicleServiceManagement\\Models\\Admin.cs",
+              "RelativeToolTip": "Models\\Admin.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAYwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T17:57:02.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240817235622_nineth.cs",
+              "DocumentMoniker": "E:\\Cdac\\AR_VehicleServiceManagement\\Migrations\\20240817235622_nineth.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240817235622_nineth.cs",
+              "ToolTip": "E:\\Cdac\\AR_VehicleServiceManagement\\Migrations\\20240817235622_nineth.cs",
+              "RelativeToolTip": "Migrations\\20240817235622_nineth.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T23:56:22.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240818000603__tenth_.cs",
+              "DocumentMoniker": "E:\\Cdac\\AR_VehicleServiceManagement\\Migrations\\20240818000603__tenth_.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240818000603__tenth_.cs",
+              "ToolTip": "E:\\Cdac\\AR_VehicleServiceManagement\\Migrations\\20240818000603__tenth_.cs",
+              "RelativeToolTip": "Migrations\\20240818000603__tenth_.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T00:06:03.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240818000656_10.cs",
+              "DocumentMoniker": "E:\\Cdac\\AR_VehicleServiceManagement\\Migrations\\20240818000656_10.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240818000656_10.cs",
+              "ToolTip": "E:\\Cdac\\AR_VehicleServiceManagement\\Migrations\\20240818000656_10.cs",
+              "RelativeToolTip": "Migrations\\20240818000656_10.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T00:06:57.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240817232614_eight.cs",
+              "DocumentMoniker": "E:\\Cdac\\AR_VehicleServiceManagement\\Migrations\\20240817232614_eight.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240817232614_eight.cs",
+              "ToolTip": "E:\\Cdac\\AR_VehicleServiceManagement\\Migrations\\20240817232614_eight.cs",
+              "RelativeToolTip": "Migrations\\20240817232614_eight.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T23:26:14.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20240817230534_fourth.cs",
+              "DocumentMoniker": "E:\\Cdac\\AR_VehicleServiceManagement\\Migrations\\20240817230534_fourth.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240817230534_fourth.cs",
+              "ToolTip": "E:\\Cdac\\AR_VehicleServiceManagement\\Migrations\\20240817230534_fourth.cs",
+              "RelativeToolTip": "Migrations\\20240817230534_fourth.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T23:05:35.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240817231120_fifth.cs",
+              "DocumentMoniker": "E:\\Cdac\\AR_VehicleServiceManagement\\Migrations\\20240817231120_fifth.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240817231120_fifth.cs",
+              "ToolTip": "E:\\Cdac\\AR_VehicleServiceManagement\\Migrations\\20240817231120_fifth.cs",
+              "RelativeToolTip": "Migrations\\20240817231120_fifth.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T23:11:20.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240817231610_seventh.cs",
+              "DocumentMoniker": "E:\\Cdac\\AR_VehicleServiceManagement\\Migrations\\20240817231610_seventh.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240817231610_seventh.cs",
+              "ToolTip": "E:\\Cdac\\AR_VehicleServiceManagement\\Migrations\\20240817231610_seventh.cs",
+              "RelativeToolTip": "Migrations\\20240817231610_seventh.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T23:16:11.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20240817231355_sixth.cs",
+              "DocumentMoniker": "E:\\Cdac\\AR_VehicleServiceManagement\\Migrations\\20240817231355_sixth.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240817231355_sixth.cs",
+              "ToolTip": "E:\\Cdac\\AR_VehicleServiceManagement\\Migrations\\20240817231355_sixth.cs",
+              "RelativeToolTip": "Migrations\\20240817231355_sixth.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T23:13:55.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20240817223841_second.cs",
+              "DocumentMoniker": "E:\\Cdac\\AR_VehicleServiceManagement\\Migrations\\20240817223841_second.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240817223841_second.cs",
+              "ToolTip": "E:\\Cdac\\AR_VehicleServiceManagement\\Migrations\\20240817223841_second.cs",
+              "RelativeToolTip": "Migrations\\20240817223841_second.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T22:38:41.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20240817225219_third.cs",
+              "DocumentMoniker": "E:\\Cdac\\AR_VehicleServiceManagement\\Migrations\\20240817225219_third.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240817225219_third.cs",
+              "ToolTip": "E:\\Cdac\\AR_VehicleServiceManagement\\Migrations\\20240817225219_third.cs",
+              "RelativeToolTip": "Migrations\\20240817225219_third.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T22:52:19.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20240817223655_first.cs",
+              "DocumentMoniker": "E:\\Cdac\\AR_VehicleServiceManagement\\Migrations\\20240817223655_first.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240817223655_first.cs",
+              "ToolTip": "E:\\Cdac\\AR_VehicleServiceManagement\\Migrations\\20240817223655_first.cs",
+              "RelativeToolTip": "Migrations\\20240817223655_first.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T22:36:55.285Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
